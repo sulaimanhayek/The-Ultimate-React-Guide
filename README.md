@@ -8,3 +8,4 @@ Resources and projects for React Community
 * [W3 schools - React](https://www.w3schools.com/react/)
 * [Mosh - React Tutorial for Beginners [React js]](https://www.youtube.com/watch?v=Ke90Tje7VS0&ab_channel=ProgrammingwithMosh)
 * [DevEd - React Tutorial For Beginners](https://www.youtube.com/watch?v=dGcsHMXbSOA&ab_channel=DevEd)
+* [Traversy Media - React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A&ab_channel=TraversyMedia)
