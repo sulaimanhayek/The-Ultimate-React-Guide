@@ -9,4 +9,4 @@ Resources and projects for React Community
 * [Mosh - React Tutorial for Beginners [React js]](https://www.youtube.com/watch?v=Ke90Tje7VS0&ab_channel=ProgrammingwithMosh)
 * [DevEd - React Tutorial For Beginners](https://www.youtube.com/watch?v=dGcsHMXbSOA&ab_channel=DevEd)
 * [Traversy Media - React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A&ab_channel=TraversyMedia)
-* [Academind](https://www.youtube.com/watch?v=pgAvVxowaYU&ab_channel=Academind)
+* [Academind - ReactJS Tutorial for Beginners - Getting Started with React](https://www.youtube.com/watch?v=pgAvVxowaYU&ab_channel=Academind)
