@@ -11,3 +11,4 @@ Resources and projects for React Community
 * [Traversy Media - React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A&ab_channel=TraversyMedia)
 * [Academind - ReactJS Tutorial for Beginners - Getting Started with React](https://www.youtube.com/watch?v=pgAvVxowaYU&ab_channel=Academind)
 * [44 Beginner Examples](https://react.rocks/tag/Beginner)
+* [Tutorialspoint - ReactJS Tutorial](https://www.tutorialspoint.com/reactjs/index.htm)
