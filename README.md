@@ -15,3 +15,5 @@ Resources and projects for React Community (All free!!)
 * [🔴 Let's Build a YouTube Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=NT299zIk2JY&ab_channel=CleverProgrammer)
 * [🔴 How to Build a Instagram Clone with REACT JS for Beginners (in 3 Hours!)](https://www.youtube.com/watch?v=f7T48W0cwXM&ab_channel=CleverProgrammer)
 * [🔴 Build a Facebook Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=B-kxUMHBxNo&ab_channel=CleverProgrammer)
+* [🔴 Let's Build a GOOGLE Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=DAWWf7q8sqM&ab_channel=CleverProgrammer)
+
