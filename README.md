@@ -18,5 +18,6 @@ Resources and projects for React Community (All free!!)
 * [🔴 Let's Build a GOOGLE Clone with REACT JS for Beginners!](https://www.youtube.com/watch?v=DAWWf7q8sqM&ab_channel=CleverProgrammer)
 * [Top 10 Free Courses to learn React.js Redux, Hooks, and Context for Beginners in 2020 — Best of Lot](https://medium.com/javarevisited/top-10-free-courses-to-learn-react-js-c14edbd3b35f)
 * [Learn React In 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=187s&ab_channel=WebDevSimplified)
+* [React State Management in 2020](https://medium.com/better-programming/react-state-management-in-2020-719d10c816bf)
 
 
