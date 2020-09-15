@@ -20,4 +20,4 @@ Resources and projects for React Community (All free!!)
 * [Learn React In 30 Minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=187s&ab_channel=WebDevSimplified)
 * [React State Management in 2020](https://medium.com/better-programming/react-state-management-in-2020-719d10c816bf)
 * [React State Management Today](https://blog.usejournal.com/react-state-management-in-2020-eeb01739a691)
-
+* [React Free Templates](https://www.creative-tim.com/templates/react-free)
