@@ -4,6 +4,7 @@ See the [CONTRIBUTE GUIDE](./CONTRIBUTE_GUIDE.md)
 Resources and projects for React Community (All free!!)
 
 * [React Official Tutorials](https://reactjs.org/tutorial/tutorial.html)
+* [How to Learn React — A roadmap from beginner to advanced](https://medium.com/free-code-camp/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 * [Learn React JS - Full Course for Beginners - Tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44&ab_channel=freeCodeCamp.org)
 * [W3 schools - React](https://www.w3schools.com/react/)
 * [Mosh - React Tutorial for Beginners [React js]](https://www.youtube.com/watch?v=Ke90Tje7VS0&ab_channel=ProgrammingwithMosh)
